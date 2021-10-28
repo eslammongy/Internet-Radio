@@ -43,8 +43,8 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             SizedBox(height: 10,),
             Text("Streaming Radio" , style: TextStyle(fontFamily: "Pacifico" , fontSize: 30 ,color: primaryDarkColor),)
-          ],)
-          
+          ],),
+
         ),
       ),
     );
